@@ -1,0 +1,15 @@
+C:\Users\liice\source\repos\TestAppScrum\Models\bin\Debug\net5.0\Models.deps.json
+C:\Users\liice\source\repos\TestAppScrum\Models\bin\Debug\net5.0\Models.dll
+C:\Users\liice\source\repos\TestAppScrum\Models\bin\Debug\net5.0\ref\Models.dll
+C:\Users\liice\source\repos\TestAppScrum\Models\bin\Debug\net5.0\Models.pdb
+C:\Users\liice\source\repos\TestAppScrum\Models\obj\Debug\net5.0\Models.csproj.AssemblyReference.cache
+C:\Users\liice\source\repos\TestAppScrum\Models\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liice\source\repos\TestAppScrum\Models\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+C:\Users\liice\source\repos\TestAppScrum\Models\obj\Debug\net5.0\Models.AssemblyInfo.cs
+C:\Users\liice\source\repos\TestAppScrum\Models\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\liice\source\repos\TestAppScrum\Models\obj\Debug\net5.0\Models.dll
+C:\Users\liice\source\repos\TestAppScrum\Models\obj\Debug\net5.0\ref\Models.dll
+C:\Users\liice\source\repos\TestAppScrum\Models\obj\Debug\net5.0\Models.pdb
+C:\Users\liice\source\repos\TestAppScrum\Models\bin\Debug\net5.0\Models.runtimeconfig.json
+C:\Users\liice\source\repos\TestAppScrum\Models\bin\Debug\net5.0\Models.runtimeconfig.dev.json
+C:\Users\liice\source\repos\TestAppScrum\Models\obj\Debug\net5.0\Models.genruntimeconfig.cache
